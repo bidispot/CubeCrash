@@ -8,11 +8,11 @@ This is an arcade game in which you're controlling a cube that is sliding on a q
 
 ## Mobile version
 
-It's been for [Android](https://github.com/bidispot/CubeCrash/blob/master/deliverables/CubeCrashAndroid.apk) and iOS (please contact me if you want to try it out since I cannot publish the iOS executable here)
+It's been for [Android](https://github.com/bidispot/CubeCrash/raw/master/deliverables/CubeCrashAndroid.apk) and iOS (please contact me if you want to try it out since I cannot publish the iOS executable here)
 
 ## Desktop version
 
-It's been built for [Windows](https://github.com/bidispot/CubeCrash/blob/master/deliverables/CubeCrash.zip) and [MacOs](https://github.com/bidispot/CubeCrash/tree/master/deliverables)
+It's been built for [Windows](https://github.com/bidispot/CubeCrash/raw/master/deliverables/CubeCrash.zip) and [MacOs](https://github.com/bidispot/CubeCrash/tree/master/deliverables)
 
 Press `a` to go `Left`
 
