@@ -569,6 +569,22 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 321ffeedc866545738b852b752292f19, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &926174216 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1216960789392478, guid: 321ffeedc866545738b852b752292f19,
+    type: 2}
+  m_PrefabInternal: {fileID: 926174215}
+--- !u!114 &926174217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 926174216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbbf9cf58264e4cfcb3319813e63069a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1569578238
 Prefab:
   m_ObjectHideFlags: 0
@@ -770,6 +786,31 @@ Prefab:
       propertyPath: Player
       value: 
       objectReference: {fileID: 600267556}
+    - target: {fileID: 114559941814006586, guid: c8e4d728b5f7f4588a99f1acc906fd9a,
+        type: 2}
+      propertyPath: m_FontData.m_FontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114559941814006586, guid: c8e4d728b5f7f4588a99f1acc906fd9a,
+        type: 2}
+      propertyPath: m_FontData.m_BestFit
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114559941814006586, guid: c8e4d728b5f7f4588a99f1acc906fd9a,
+        type: 2}
+      propertyPath: m_FontData.m_MaxSize
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 114598753344849120, guid: c8e4d728b5f7f4588a99f1acc906fd9a,
+        type: 2}
+      propertyPath: m_ReferenceResolution.x
+      value: 960
+      objectReference: {fileID: 0}
+    - target: {fileID: 114598753344849120, guid: c8e4d728b5f7f4588a99f1acc906fd9a,
+        type: 2}
+      propertyPath: m_ReferenceResolution.y
+      value: 640
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c8e4d728b5f7f4588a99f1acc906fd9a, type: 2}
   m_IsPrefabAsset: 0

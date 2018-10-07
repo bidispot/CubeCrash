@@ -1008,6 +1008,31 @@ Prefab:
       propertyPath: Player
       value: 
       objectReference: {fileID: 600267556}
+    - target: {fileID: 114559941814006586, guid: c8e4d728b5f7f4588a99f1acc906fd9a,
+        type: 2}
+      propertyPath: m_FontData.m_FontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114559941814006586, guid: c8e4d728b5f7f4588a99f1acc906fd9a,
+        type: 2}
+      propertyPath: m_FontData.m_BestFit
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114559941814006586, guid: c8e4d728b5f7f4588a99f1acc906fd9a,
+        type: 2}
+      propertyPath: m_FontData.m_MaxSize
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 114598753344849120, guid: c8e4d728b5f7f4588a99f1acc906fd9a,
+        type: 2}
+      propertyPath: m_ReferenceResolution.x
+      value: 960
+      objectReference: {fileID: 0}
+    - target: {fileID: 114598753344849120, guid: c8e4d728b5f7f4588a99f1acc906fd9a,
+        type: 2}
+      propertyPath: m_ReferenceResolution.y
+      value: 640
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c8e4d728b5f7f4588a99f1acc906fd9a, type: 2}
   m_IsPrefabAsset: 0

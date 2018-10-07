@@ -4,6 +4,10 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+CubeCrashiOS/
+
+# Jetbrains
+.idea/
 
 # Visual Studio cache directory
 .vs/
